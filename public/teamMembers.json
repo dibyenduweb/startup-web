@@ -1,0 +1,39 @@
+[
+    {
+      "name": "Sayan Roy",
+      "designation": "Founder & C.E.O",
+      "workDetails": "Responsible for overseeing project timelines and ensuring that all deliverables are met with the highest quality. Coordinates between teams, manages resources, and ensures that the project stays on track from inception to completion.",
+      "image": "https://i.ibb.co/0Khdm8D/6.png"
+    },
+    {
+      "name": "MD. Asaduzzaman",
+      "designation": "Project Manager",
+      "workDetails": "Leads the frontend development team, ensuring that the user interface is both visually appealing and functionally robust. Collaborates closely with designers and backend developers to bring the project to life, focusing on seamless user experiences.",
+      "image": "https://i.ibb.co/BZkWNpb/5.png"
+    },
+    {
+      "name": "Dibyendu Pramanik",
+      "designation": "Project Lead & Client Success",
+      "workDetails": "Plays a dual role in leading projects and ensuring client satisfaction. Bridges the gap between the client’s vision and the development team’s execution, making sure that client needs are met and expectations are exceeded throughout the project lifecycle.",
+      "image": "https://i.ibb.co/FzBR9x3/4.png"
+    },
+    {
+      "name": "Ishita Das",
+      "designation": "UX/UI Developer, Content Developer",
+      "workDetails": "Responsible for designing intuitive and engaging user interfaces, while also contributing to content development. Ensures that the visual design aligns with user needs and enhances the overall user experience, making the product not just functional but also enjoyable to use.",
+      "image": "https://i.ibb.co/1sDbxVT/8.png"
+    },
+    {
+      "name": "Mohammad Robiul",
+      "designation": "Backend Developer",
+      "workDetails": "Specializes in server-side development, focusing on creating and maintaining the core functional logic of the application. Ensures that the backend is secure, efficient, and capable of handling complex business logic and data processes.",
+      "image": "https://i.ibb.co/84QVxHs/7.png"
+    },
+    {
+      "name": "Sourv Dutta",
+      "designation": "Full Stack Developer",
+      "workDetails": "A versatile developer who works across both frontend and backend systems. Ensures that the entire application functions cohesively, integrating server-side logic with user-facing elements to deliver a seamless and efficient product.",
+      "image": "https://i.ibb.co/4pP3tQc/3.png"
+    }
+  ]
+  

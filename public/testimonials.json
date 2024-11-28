@@ -1,0 +1,49 @@
+{
+  "testimonials": [
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/User_Avatar.png",
+      "name": "Aditya Rao",
+      "review": "The website redesign exceeded our expectations! It's not only beautiful but also user-friendly. Highly recommend!"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/User_Avatar.png",
+      "name": "Meera Kapoor",
+      "review": "Their digital marketing strategies transformed our online presence. We saw a significant increase in engagement!"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/User_Avatar.png",
+      "name": "Vikrant Verma",
+      "review": "The UI/UX design they provided was outstanding. Our users love the new interface!"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/User_Avatar.png",
+      "name": "Kajal Deshmukh",
+      "review": "The team was professional and delivered on time. Our startup website looks amazing and functions flawlessly!"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/User_Avatar.png",
+      "name": "Rajesh Kumar",
+      "review": "Fantastic service! Their web development team understood our needs perfectly and delivered a stellar product."
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/User_Avatar.png",
+      "name": "Nisha Patel",
+      "review": "I’m thrilled with the results! Their creative approach to web design truly captured our brand's essence."
+    },
+    {
+      "image": "https://randomuser.me/api/portraits/men/7.jpg",
+      "name": "Siddharth Mehta",
+      "review": "The digital marketing campaign they launched for us was a huge success. Our sales skyrocketed!"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/User_Avatar.png",
+      "name": "Anaya Singh",
+      "review": "Incredible experience! The team was responsive and attentive to our requirements every step of the way."
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/User_Avatar.png",
+      "name": "Kunal Joshi",
+      "review": "Their expertise in web development helped us create a platform that our clients love. Highly recommended!"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+[
+    {
+      "name": "Ananya Halder",
+      "designation": "Frontend Developer",
+      "workDetails": "Focuses on building responsive and accessible user interfaces.",
+      "workExperience": "2 years.",
+      "image": "https://png.pngtree.com/png-clipart/20201224/ourmid/pngtree-avatar-girl-illustration-domineering-png-image_2583937.jpg"
+    },
+    {
+      "name": "Ravi Kumar",
+      "designation": "Full Stack Developer",
+      "workDetails": "Develops and maintains software applications.",
+      "workExperience": "5 years.",
+      "image": "https://png.pngtree.com/png-vector/20240204/ourmid/pngtree-avatar-job-businessman-flat-portrait-of-man-png-image_11608099.png"
+    },
+    {
+      "name": "Sanya Sharma",
+      "designation": "Quality Assurance Engineer",
+      "workDetails": "Ensures product quality through testing and validation.",
+      "workExperience": "4 years.",
+      "image": "https://png.pngtree.com/png-clipart/20231019/original/pngtree-user-profile-avatar-png-image_13369989.png"
+    },
+    {
+      "name": "Vikram Singh",
+      "designation": "DevOps Engineer",
+      "workDetails": "Manages deployment and integration processes.",
+      "workExperience": "1 years.",
+      "image": "https://png.pngtree.com/png-vector/20240914/ourlarge/pngtree-creative-boys-avatar-png-image_12850267.png"
+    },
+    {
+      "name": "Priya Roy",
+      "designation": "Graphic Designer",
+      "workDetails": "Creates visual content for branding and marketing.",
+      "workExperience": "2 years.",
+      "image": "https://avatarfiles.alphacoders.com/374/thumb-1920-374883.png"
+    },
+    {
+      "name": "Karan Verma",
+      "designation": "Content Writer / Digital Marketer",
+      "workDetails": "Produces engaging content for web and social media.",
+      "workExperience": "3 years.",
+      "image": "https://png.pngtree.com/png-vector/20220807/ourmid/pngtree-man-avatar-wearing-gray-suit-png-image_6102786.png"
+    },
+    {
+      "name": "Neha Joshi",
+      "designation": "SEO Specialist",
+      "workDetails": "Optimizes website content to improve search engine rankings.",
+      "workExperience": "2 years.",
+      "image": "https://cdn3.iconfinder.com/data/icons/business-avatar-1/512/4_avatar-512.png"
+    },
+    {
+      "name": "Amit Paul",
+      "designation": "Data Analyst",
+      "workDetails": "Analyzes data to help inform business decisions.",
+      "workExperience": " 1 years.",
+      "image": "https://cdn-icons-png.flaticon.com/512/4202/4202839.png"
+    },
+    {
+      "name": "Sneha Das",
+      "designation": "Social Media Manager",
+      "workDetails": "Manages and grows the company’s social media presence.",
+      "workExperience": "3 years.",
+      "image": "https://live.staticflickr.com/8648/16350890925_bb6fbb2f04_z.jpg"
+    }
+  ]
+  

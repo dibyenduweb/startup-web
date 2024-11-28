@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Web Development",
+    "description": "Our Business Plan is a written document describing a company’s core business activities.",
+    "icon": "https://cdn-icons-png.flaticon.com/512/2721/2721198.png",
+    "bgColor": "bg-yellow-100"
+  },
+  {
+    "title": "UI/UX Designer",
+    "description": "UI/UX design service provider, our primary goal is to create user-friendly and visually appealing digital products.",
+    "icon": "https://cdn-icons-png.flaticon.com/512/2721/2721288.png",
+    "bgColor": "bg-red-100"
+  },
+  {
+    "title": "App Development",
+    "description": "Our primary goal is to create user-friendly and visually appealing digital products.",
+    "icon": "https://cdn-icons-png.flaticon.com/512/2721/2721264.png",
+    "bgColor": "bg-blue-100"
+  },
+  {
+    "title": "Search Engine Optimization",
+    "description": "Our SEO service is a comprehensive approach to improving your website’s visibility and ranking.",
+    "icon": "https://cdn-icons-png.flaticon.com/512/2721/2721293.png",
+    "bgColor": "bg-blue-100"
+  },
+  {
+    "title": "Graphic Design",
+    "description": "A market analysis is a quantitative and qualitative assessment of a market.",
+    "icon": "https://cdn-icons-png.flaticon.com/512/2721/2721306.png",
+    "bgColor": "bg-teal-100"
+  },
+  {
+    "title": "Social Media Management",
+    "description": "Our SEO service is a comprehensive approach to improving your website’s visibility and ranking.",
+    "icon": "https://cdn-icons-png.flaticon.com/512/2721/2721277.png",
+    "bgColor": "bg-green-100"
+  },
+  {
+    "title": "Video Editing",
+    "description": "Providing professional video editing services to enhance your content.",
+    "icon": "https://cdn-icons-png.flaticon.com/512/2721/2721253.png",  
+    "bgColor": "bg-purple-100"
+  },
+  {
+    "title": "Data Annotation",
+    "description": "Accurate data labeling services to improve machine learning models.",
+    "icon": "https://cdn-icons-png.flaticon.com/512/2721/2721315.png",  
+    "bgColor": "bg-orange-100"
+  },
+  {
+    "title": "Content Moderation",
+    "description": "Ensuring quality and safety of user-generated content across platforms.",
+    "icon": "https://cdn-icons-png.flaticon.com/512/2721/2721283.png", 
+    "bgColor": "bg-light-blue-100"
+  }
+]
